@@ -3,7 +3,7 @@ About renishaw_wire
 
 Home: https://github.com/alchem0x2A/py-wdf-reader
 
-Package license: GPL-3.0-or-later
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/renishaw_wire-feedstock/blob/main/LICENSE.txt)
 
