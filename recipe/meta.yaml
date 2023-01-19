@@ -1,5 +1,5 @@
 {% set name = "renishaw_wire" %}
-{% set version = "0.1.15" %}
+{% set version = "0.1.16" %}
 
 
 package:
@@ -7,10 +7,10 @@ package:
   version: {{ version }}
 
 
-  
+
 source:
   url: https://github.com/alchem0x2A/py-wdf-reader/archive/refs/tags/{{ version }}.tar.gz
-  sha256: ada11dec4c472a949b14efa25df006d3c17a100842f2c2ea6f4a61454287121f
+  sha256: 845f488403c736d0b5980c4b1392f6d1c857db0bd415e5d36a2fd82bb9a813af
 
 build:
   number: 0
